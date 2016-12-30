@@ -1,0 +1,107 @@
+{
+    "android_gradle_plugin_version": "2.2.0",
+    "apk_path": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\build\\freeline",
+    "build_directory": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "D:\\Androidutil\\sdk\\build-tools\\24.0.2",
+    "build_tools_version": "24.0.2",
+    "compile_sdk_directory": "D:\\Androidutil\\sdk\\platforms\\android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.hong.uistudy",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "D:\\AndroidWorkPace\\ASproject\\UiStudy",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_91",
+    "launcher": "com.hong.uistudy.MainActivity",
+    "main_assets_directory": [
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\assets",
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\jniLibs",
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\jni",
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\res",
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\java",
+        "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app"
+        }
+    ],
+    "package": "com.hong.uistudy",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\assets",
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\jniLibs",
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\jni",
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\res",
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\debug\\java",
+                "D:\\AndroidWorkPace\\ASproject\\UiStudy\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "D:\\AndroidWorkPace\\ASproject\\UiStudy",
+    "sdk_directory": "D:\\Androidutil\\sdk",
+    "use_jdk8": true
+}
